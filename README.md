@@ -27,3 +27,9 @@
 ```SwiftUI```や```Flutter```のような宣言型のフレームワークを用いて、より網羅的に学習できる新しいアプリとサービスを展開したいです。
 
 また、クラス設計やデザインパターンにも興味が出てきたため、保守性や拡張性の高いコードを書けるように勉強中です。勉強してコードを書けば書くほど楽しいと感じています🔥
+
+## 利用したパッケージ
+- [SwiftyStoreKit](https://github.com/bizz84/SwiftyStoreKit)
+  - Contributor: [Andrea Bizzotto](https://github.com/bizz84)
+  - レシートの検証がとても楽になりました！ありがとうございます！（I would like to extend my heartfelt gratitude for the package that has made receipt verification a breeze. Thank you!
+）
